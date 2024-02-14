@@ -62,3 +62,40 @@ pip install numpy matplotlib
 
     - In this example, “blend” is the lemma, and “blending” is part of the lexeme. So when you lemmatize a word, you are reducing it to its lemma.
 
+---
+
+## POS tagging (parts of speech) 🏴‍☠️
+
+- Part of speech is a grammatical term that deals with the roles words play when you use them together in sentences. 
+- Tagging parts of speech, or POS tagging, is the task of labeling the words in your text according to their part of speech.
+
+#### NLTK POS Tag List
+
+Below is the pos tag list of nltk as follows. There is a multiple tag list available in nltk, tag list showing in output as per word.
+
+```
+CC: It is the conjunction of coordinating
+CD: It is a digit of cardinal
+DT: It is the determiner
+EX: Existential
+FW: It is a foreign word
+IN: Preposition and conjunction
+JJ: Adjective
+JJR and JJS: Adjective and superlative
+LS: List marker
+MD: Modal
+NN: Singular noun
+NNS, NNP, NNPS: Proper and plural noun
+PDT: Predeterminer
+WRB: Adverb of wh
+WP$: Possessive wh
+WP: Pronoun of wh
+WDT: Determiner of wp
+VBZ: Verb
+VBP, VBN, VBG, VBD, VB: Forms of verbs
+UH: Interjection
+TO: To go
+RP: Particle
+RBS, RB, RBR: Adverb
+PRP, PRP$: Pronoun personal and professional
+```
