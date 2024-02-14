@@ -24,3 +24,10 @@ pip install numpy matplotlib
 - We can tokenize a text on the basis of words or, sentences.
   - Tokenizing by word
   - Tokenizing by sentence
+
+---
+
+## Stop Words 🛑
+
+- Stop words are words that you want to ignore, so you filter them out of your text when you’re processing it.
+- Very common words like 'in', 'is', and 'an' are often used as stop words since they don’t add a lot of meaning to a text in and of themselves.
