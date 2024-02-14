@@ -1,5 +1,8 @@
 # NLTK Codes 🧑🏻‍💻
 
+[https://www.nltk.org/](https://www.nltk.org/)
+[https://realpython.com/nltk-nlp-python/](https://realpython.com/nltk-nlp-python/)
+
 - Natural language processing (NLP) is a field that focuses on making natural human language usable by computer programs.
 
 
