@@ -55,3 +55,10 @@ pip install numpy matplotlib
 
 ## Lemmatization 📚
 
+- Like stemming, lemmatizing reduces words to their core meaning, but it will give you a complete English word that makes sense on its own instead of just a fragment of a word like 'discoveri (for discovery)'.
+
+-  **A lemma is a word that represents a whole group of words, and that group of words is called a lexeme.**
+    -  For example, if you were to look up the word “blending” in a dictionary, then you’d need to look at the entry for “blend,” but you would find “blending” listed in that entry.
+
+    - In this example, “blend” is the lemma, and “blending” is part of the lexeme. So when you lemmatize a word, you are reducing it to its lemma.
+
